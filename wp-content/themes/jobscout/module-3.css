@@ -1,0 +1,24 @@
+.post-col {
+    display: flex;
+    height: 250px;
+  }
+  .post-img a img {
+   height: 100%;
+   
+  }
+  .post-content {
+    width: 70%;
+  }
+  .post-content p {
+    font-size: 15px;
+  }
+  .more-post {
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+
+
+
+  
